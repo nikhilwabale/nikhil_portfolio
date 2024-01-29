@@ -492,7 +492,7 @@
       width: 200px;
   }
   .abouttext{
-      font-size: 40px;
+      font-size: 30px;
   }
   .abouttextinfo{
       font-size: 11px;
@@ -505,7 +505,10 @@
       font-size: 15px;
   }
   .me>div>i {
-      font-size: 40px;
+      font-size: 30px;
+  }
+  .abouttext_content{
+    font-size: 28px;
   }
 
 
