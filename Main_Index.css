@@ -405,6 +405,12 @@
   font-weight: 600;
   font-family: 'Lato', sans-serif;
 }
+.abouttext_content{
+    display: flex;
+    flex-direction: column;
+    font-size: 35px;
+    font-weight: 900;
+}
 
 .selfname{
   color: #707077;
@@ -486,7 +492,7 @@
       width: 200px;
   }
   .abouttext{
-      font-size: 23px;
+      font-size: 40px;
   }
   .abouttextinfo{
       font-size: 11px;
@@ -495,11 +501,13 @@
       padding: 0 14px;
   }
   .mybox>p {
-      line-height: 1;
+      line-height: 1.4;
+      font-size: 15px;
   }
   .me>div>i {
-      font-size: 25px;
+      font-size: 40px;
   }
+
 
 }
 
@@ -509,7 +517,7 @@
       display: flex;
       flex-direction: column;
       gap: 40px;
-      padding: 75px 0;
+      padding: 20px 0 75px 0;
       align-items: center;
   }
   .aboutus {
@@ -520,7 +528,7 @@
       width: 250px;
   }
   .abouttext{
-      font-size: 30px;
+      font-size: 40px;
   }
   .abouttextinfo{
       font-size: 13px;
@@ -529,10 +537,11 @@
       padding: 0 20px;
   }
   .mybox>p {
-      line-height: 1;
+      line-height: 1.4;
+      font-size: 16px;
   }
   .me>div>i {
-      font-size: 25px;
+      font-size: 40px;
   }
 
 }
