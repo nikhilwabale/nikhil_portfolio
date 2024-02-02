@@ -33,7 +33,7 @@
 }
 
 .navlogo {
-  color: blue;
+  /* color: blue; */
   display: flex;
   font-weight: 600;
   font-size: 1.3rem;
