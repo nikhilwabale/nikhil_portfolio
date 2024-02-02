@@ -132,11 +132,18 @@
   }
 }
 
+@media screen and (min-width: 1242px) and (max-width: 1313px) {
+  .navbar {
+    gap: 30px;
+  }
+}
+
+
 @media screen and (min-width: 595px) and (max-width: 1242px) {
   .navbar {
       justify-content: space-between;
       gap: 20px;
-      background-color: #a3a4c0;
+      /* background-color: #a3a4c0; */
   }
 
   .navinfos > button {
@@ -144,8 +151,8 @@
   }
 
   .navinfo {
-      gap: 10px;
-      font-size: 1rem;
+      gap: 13px;
+      font-size: 0.9rem;
   }
 
   .navlogo {
@@ -158,6 +165,8 @@
       display: none;
   }
 }
+
+
 
 
 
